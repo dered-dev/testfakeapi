@@ -1,5 +1,5 @@
 {
-    "data": [
+    "typecontents": [
         {
             "id": "3",
             "name": "Cartman",
@@ -10,6 +10,6 @@
             "name": "Cartman",
             "description": "Whateveryournameis",
             "status": "Activo"
-        }
+        } 
     ]
 }
